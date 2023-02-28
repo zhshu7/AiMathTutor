@@ -28,6 +28,8 @@ body {
 
 #form_container {
   width: 100vw;
+  position: fixed;
+  bottom: 0%;
 }
 
 #chat_container {
